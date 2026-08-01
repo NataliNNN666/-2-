@@ -18,3 +18,10 @@
 HAproxy должен балансировать только тот http-трафик, который адресован домену example.local
 На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.
 
+<img width="1920" height="1020" alt="Снимок экрана 2026-08-01 091841" src="https://github.com/user-attachments/assets/dace2f3c-b01d-4239-9e99-d0fd80aa0b70" />
+<img width="1920" height="1020" alt="Снимок экрана 2026-08-01 091429" src="https://github.com/user-attachments/assets/00729966-a743-4de2-86cc-6c3a27fc4ce1" />
+<img width="1920" height="1020" alt="Снимок экрана 2026-08-01 092438" src="https://github.com/user-attachments/assets/20320742-5e15-4604-9b58-b7f1458918c4" />
+<img width="1920" height="1020" alt="Снимок экрана 2026-08-01 092043" src="https://github.com/user-attachments/assets/26279b87-2478-4b0d-aa6d-eb7565c81e66" />
+<img width="1920" height="1020" alt="Снимок экрана 2026-08-01 093807" src="https://github.com/user-attachments/assets/cd5e43a7-8aaf-4c69-bcf0-1cec3beab8df" />
+<img width="1920" height="1020" alt="Снимок экрана 2026-08-01 093219" src="https://github.com/user-attachments/assets/61193400-4279-44e9-adc1-560351ce5fa7" />
+<img width="1920" height="1020" alt="Снимок экрана 2026-08-01 093633" src="https://github.com/user-attachments/assets/0f1afb2b-7ad0-4b0a-8e5e-ddc9d0b2748d" />
