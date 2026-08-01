@@ -1,3 +1,4 @@
+
 Домашнее задание к занятию 2 «Кластеризация и балансировка нагрузки»
 
 
@@ -29,3 +30,4 @@ HAproxy должен балансировать только тот http-тра�
 <img width="1920" height="1020" alt="Снимок экрана 2026-08-01 093807" src="https://github.com/user-attachments/assets/cd5e43a7-8aaf-4c69-bcf0-1cec3beab8df" />
 <img width="1920" height="1020" alt="Снимок экрана 2026-08-01 093219" src="https://github.com/user-attachments/assets/61193400-4279-44e9-adc1-560351ce5fa7" />
 <img width="1920" height="1020" alt="Снимок экрана 2026-08-01 093633" src="https://github.com/user-attachments/assets/0f1afb2b-7ad0-4b0a-8e5e-ddc9d0b2748d" />
+<img width="1920" height="1020" alt="Снимок экрана 2026-08-01 101856" src="https://github.com/user-attachments/assets/87cb738c-eb61-4a7a-b445-61bee2ad477e" />
